@@ -11,10 +11,6 @@
 <img src="https://img.shields.io/badge/ATABOOK-SIGN-A7C7E7?style=for-the-badge" : https://jerukivy.atabook.org/
 </a>
 </p>
-<p align="center">
-</a>
-<a href= "https://jerukicikiwir.carrd.com" + >
-<img src="https://img.shields.io/badge/Carrd-Intro-A7C7E7?style=for-the-badge" : https://jerukicikiwir.carrd.com
 </a>
 </p>
 <p align="center">
