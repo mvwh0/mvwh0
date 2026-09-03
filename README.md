@@ -19,7 +19,7 @@
 </p>
 <p align="center">
 </a>
-<a href= "x.com/mvwh0_" + >
-<img src="https://img.shields.io/badge/X-Visit-A7C7E7?style=for-the-badge" : x.com/mvwh0_
+<a href= "https://x.com/mvwh0_?s=20" + >
+<img src="https://img.shields.io/badge/X-Visit-A7C7E7?style=for-the-badge" : https://x.com/mvwh0_?s=20
 </a>
 </p>
