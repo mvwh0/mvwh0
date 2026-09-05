@@ -9,7 +9,7 @@
 <p align="center">
 </a>
 <a href= "https://jerukivy.atabook.org/" + >
-<img src="https://img.shields.io/badge/ATABOOK-SIGN-FFCCCB?style=for-the-badge" : https://jerukivy.atabook.org/
+<img src="https://img.shields.io/badge/ATABOOK-SIGN-ee2400?style=for-the-badge" : https://jerukivy.atabook.org/
 </a>
 </p>
 </a>
@@ -17,7 +17,7 @@
 <p align="center">
 </a>
 <a href= "https://x.com/mvwh0_?s=20" + >
-<img src="https://img.shields.io/badge/X-Visit-FFCCCB?style=for-the-badge" : https://x.com/mvwh0_?s=20
+<img src="https://img.shields.io/badge/Twitter-Visit-ee2400?style=for-the-badge" : https://x.com/mvwh0_?s=20
 </a>
 </p>
 <p align="center">
