@@ -1,5 +1,5 @@
 <p align="center"> 
-⛧°. ⋆༺☾𖤓༻⋆. °⛧
+⋆‧°𓏲ּ𝄢 ⋆˚꩜｡⋆‧°𓏲ּ𝄢 
 <p align="center"> 
 <img width="3096" height="1880" alt="1002076559" src="https://github.com/user-attachments/assets/aaab2e61-0ef1-4658-a984-2f0d1340fc4d" />
 
