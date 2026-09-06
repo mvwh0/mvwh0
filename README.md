@@ -21,6 +21,4 @@
 </a>
 </p>
 <p align="center">
-  <img width="136" height="99" alt="56224695344720536" src="https://github.com/user-attachments/assets/75ed408c-4bd1-4074-9517-e4fa0bfaa941" />
-<p align="center">
 ────୨ৎ────
