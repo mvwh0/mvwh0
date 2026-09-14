@@ -21,4 +21,10 @@
 </a>
 </p>
 <p align="center">
+</a>
+<a href= "https://www.tumblr.com/ket0prak?source=share" + >
+<img src="https://img.shields.io/badge/Tumblr-Visit-ee2400?style=for-the-badge" : https://www.tumblr.com/ket0prak?source=share
+</a>
+</p>
+<p align="center">
 ────୨ৎ────
