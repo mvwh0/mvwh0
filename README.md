@@ -25,9 +25,6 @@
 </a>
 <a href= "https://www.tumblr.com/ket0prak?source=share" + >
 <img src="https://img.shields.io/badge/Tumblr-Visit-ee2400?style=for-the-badge" : https://www.tumblr.com/ket0prak?source=share
-
-<p align="center"> 
-<img width="500" height="276" alt="download" src="https://github.com/user-attachments/assets/b05ab99c-b4da-4286-a5a0-37472c1c3246" />
   
 </a>
 </p>
