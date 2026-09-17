@@ -1,7 +1,8 @@
 <p align="center"> 
 ⋆‧°𓏲ּ𝄢 ⋆˚꩜｡⋆‧°𓏲ּ𝄢 
+  
 <p align="center"> 
-<img width="3096" height="1880" alt="1002076559" src="https://github.com/user-attachments/assets/aaab2e61-0ef1-4658-a984-2f0d1340fc4d" />
+<img width="1000" height="453" alt="ISlightnovelillustration" src="https://github.com/user-attachments/assets/fca83a2b-a178-4986-b05e-d8fe86bc9d43" />
 
 <p align="center"> 
 <p align="left/right"> 
@@ -24,6 +25,10 @@
 </a>
 <a href= "https://www.tumblr.com/ket0prak?source=share" + >
 <img src="https://img.shields.io/badge/Tumblr-Visit-ee2400?style=for-the-badge" : https://www.tumblr.com/ket0prak?source=share
+
+<p align="center"> 
+<img width="500" height="276" alt="download" src="https://github.com/user-attachments/assets/b05ab99c-b4da-4286-a5a0-37472c1c3246" />
+  
 </a>
 </p>
 <p align="center">
