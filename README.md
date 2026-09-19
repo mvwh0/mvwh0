@@ -2,7 +2,7 @@
 ⋆‧°𓏲ּ𝄢 ⋆˚꩜｡⋆‧°𓏲ּ𝄢 
   
 <p align="center"> 
-<img width="800" height="353" alt="ISlightnovelillustration" src="https://github.com/user-attachments/assets/fca83a2b-a178-4986-b05e-d8fe86bc9d43" />
+<img width="2845" height="2123" alt="Untitled45_20260902204124" src="https://github.com/user-attachments/assets/ca051e16-d576-4d65-8528-d107e442fc67" />
 
 <p align="center"> 
 <p align="left/right"> 
@@ -10,7 +10,7 @@
 <p align="center">
 </a>
 <a href= "https://jerukivy.atabook.org/" + >
-<img src="https://img.shields.io/badge/ATABOOK-SIGN-ee2400?style=for-the-badge" : https://jerukivy.atabook.org/
+<img src="https://img.shields.io/badge/ATABOOK-SIGN-FFC5D3?style=for-the-badge" : https://jerukivy.atabook.org/
 </a>
 </p>
 </a>
@@ -18,7 +18,7 @@
 <p align="center">
 </a>
 <a href= "https://www.tumblr.com/ket0prak?source=share" + >
-<img src="https://img.shields.io/badge/Tumblr-Visit-ee2400?style=for-the-badge" : https://www.tumblr.com/ket0prak?source=share
+<img src="https://img.shields.io/badge/Tumblr-Visit-FFC5D3?style=for-the-badge" : https://www.tumblr.com/ket0prak?source=share
   
 </a>
 </p>
